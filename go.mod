@@ -1,4 +1,4 @@
-module github.com/raboof/beats-output-http
+module github.com/chaojun-zhang/beats-output-http
 
 go 1.14
 
